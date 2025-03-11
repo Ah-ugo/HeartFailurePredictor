@@ -19,7 +19,7 @@ df = load_data()
 
 # Title and Description
 st.title("Heart Failure Prediction - ML Model Comparison")
-st.markdown("This application helps lecturers understand machine learning models and their effectiveness in predicting heart failure.")
+st.markdown("This application helps us understand machine learning models and their effectiveness in predicting heart failure.")
 
 # Show dataset preview
 if st.checkbox("Show Dataset"):
